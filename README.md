@@ -9,13 +9,13 @@ IPL matches dataset (matches.csv)
 IPL deliveries dataset (deliveries.csv)
 
 Key Questions / KPIs:
-What is the total number of matches played in the IPL dataset?
-Which team has the highest number of wins?
-How do team win counts compare across different teams?
-How is the toss decision distributed among teams?
-Which teams win the toss most frequently?
-How do total target runs vary across different seasons?
-Which season recorded the highest total target runs?
-How does venue selection impact match outcomes?
+-What is the total number of matches played in the IPL dataset?
+-Which team has the highest number of wins?
+-How do team win counts compare across different teams?
+-How is the toss decision distributed among teams?
+-Which teams win the toss most frequently?
+-How do total target runs vary across different seasons?
+-Which season recorded the highest total target runs?
+-How does venue selection impact match outcomes?
 
 
